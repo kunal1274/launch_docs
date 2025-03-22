@@ -146,3 +146,35 @@ git status
 ```bash
 git push -u origin main
 ```
+
+![alt text](image-29.png)
+
+![alt text](image-30.png)
+
+5. now the new pull from uat to main to sync the main . this has to be done everytime whenever there is a push to uat .
+
+![alt text](image-31.png)
+
+![alt text](image-32.png)
+
+- merging the pull request
+
+![alt text](image-33.png)
+
+![alt text](image-34.png)
+
+![alt text](image-35.png)
+
+- merge is closed .. please confirm
+
+![alt text](image-36.png)
+
+![alt text](image-37.png)
+
+file push to uat has been now in sync with main
+
+![alt text](image-38.png)
+
+![alt text](image-39.png)
+
+Now we will finally push this again to accommodate all these local changes from the last push again through uat only.
