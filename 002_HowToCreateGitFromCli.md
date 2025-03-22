@@ -178,3 +178,22 @@ file push to uat has been now in sync with main
 ![alt text](image-39.png)
 
 Now we will finally push this again to accommodate all these local changes from the last push again through uat only.
+
+6. doing a pull..
+   A patch created directly in git hub.
+
+![alt text](image-40.png)
+
+```bash
+git pull origin main
+```
+
+![alt text](image-41.png)
+
+pulled successfully
+
+![alt text](image-42.png)
+
+-- after doing the change we are doing the push again .
+
+![alt text](image-43.png)
