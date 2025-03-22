@@ -133,6 +133,8 @@ git add .
 git commit -m "This is second push for remaining files and the changes in the file"
 ```
 
+![alt text](image-28.png)
+
 - checkign the status again if anything missing or not done
 
 ```bash
