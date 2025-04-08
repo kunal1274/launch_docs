@@ -1015,26 +1015,32 @@ startServer();
 
 COMPANY_PREFIX=RX
 FRONTEND_URL=http://localhost:5173
-EMAIL_USER=adhikariratxen@gmail.com
-EMAIL_PASS=fkclmsoibzfhnzsw
-JWT_SECRET=launching_namami_secret_with_mUshakaH_approach
-SESSION_SECRET=your_session_secret
-GOOGLE_CLIENT_ID=577653957083-sjhi667j2l6fp3l9r2j7f0qr3saban59.apps.googleusercontent.com
-GOOGLE_CLIENT_SECRET=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
-GOOGLE_CALLBACK_URL=http://localhost:5050/auth/google/callback
+EMAIL_USER=#####################################
+EMAIL_PASS=#####################
+JWT_SECRET=#######################################################
+SESSION_SECRET=#########################
+GOOGLE_CLIENT_ID=#######################################################.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=########################################
+GOOGLE_CALLBACK_URL=http://localhost:#####/auth/google/callback
 PORT=5050
-MONGO_URI=mongodb://localhost:27017/fmsdevdb
-DATABASE_USERNAME=devratxen
-DATABASE_PASSWORD=zLMCvTgWJh2pcxMK
-PROJECT_NAME=scalernodebackend2
+MONGO_URI=mongodb://localhost:#######/fmsdevdb
+DATABASE_USERNAME=#############
+DATABASE_PASSWORD=##################
+PROJECT_NAME=########################
 DATABASE_NAME=fms-cloud-local-dev-db
-APP_NAME=ScalerNodeBackend2
-ATLAS_URI = mongodb+srv://devratxen:zLMCvTgWJh2pcxMK@scalernodebackend2.pnctyau.mongodb.net/?retryWrites=true&w=majority&appName=ScalerNodeBackend2
-REDIS_HOST=redis-12859.c264.ap-south-1-1.ec2.redns.redis-cloud.com
-REDIS_PORT=12859
-REDIS_PASSWORD=fpuJQ9eiL3rbWQio0uDZPhJUhF0a8AT6
+APP_NAME=################
+ATLAS_URI = mongodb+srv://#########:############@#################.pnctyau.mongodb.net/?retryWrites=true&w=majority&appName=#####################
+REDIS_HOST=redis-#####.c###.##########################.redns.redis-cloud.com
+REDIS_PORT=#####
+REDIS_PASSWORD=################################
 REDIS_USERNAME=default
 REDIS_USE_TLS=true
 ALLOWED_ORIGINS=http://localhost:5173,http://localhost:5174,http://localhost:5175,https://namami-fe.vercel.app,https://www.postman.com,https://jiodriversprod1.vercel.app
 
 ```
+
+# 4. Google Authentication
+
+![alt text](image-176.png)
+
+![alt text](image-177.png)
