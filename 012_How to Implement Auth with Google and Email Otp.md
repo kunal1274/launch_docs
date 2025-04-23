@@ -1013,29 +1013,7 @@ startServer();
 
 ```.env
 
-COMPANY_PREFIX=RX
-FRONTEND_URL=http://localhost:5173
-EMAIL_USER=#####################################
-EMAIL_PASS=#####################
-JWT_SECRET=#######################################################
-SESSION_SECRET=#########################
-GOOGLE_CLIENT_ID=#######################################################.apps.googleusercontent.com
-GOOGLE_CLIENT_SECRET=########################################
-GOOGLE_CALLBACK_URL=http://localhost:#####/auth/google/callback
-PORT=5050
-MONGO_URI=mongodb://localhost:#######/fmsdevdb
-DATABASE_USERNAME=#############
-DATABASE_PASSWORD=##################
-PROJECT_NAME=########################
-DATABASE_NAME=fms-cloud-local-dev-db
-APP_NAME=################
-ATLAS_URI = mongodb+srv://#########:############@#################.pnctyau.mongodb.net/?retryWrites=true&w=majority&appName=#####################
-REDIS_HOST=redis-#####.c###.##########################.redns.redis-cloud.com
-REDIS_PORT=#####
-REDIS_PASSWORD=################################
-REDIS_USERNAME=default
-REDIS_USE_TLS=true
-ALLOWED_ORIGINS=http://localhost:5173,http://localhost:5174,http://localhost:5175,https://namami-fe.vercel.app,https://www.postman.com,https://jiodriversprod1.vercel.app
+
 
 ```
 
